@@ -1,7 +1,20 @@
 /*
-======== Navbar ==========
+============ Navbar ============
 */
+
 #logo {
   height: 40px;
   width: 40px;
+}
+
+.navbar {
+  background-color: #D79922
+}
+
+/*
+============Typography=============
+*/
+
+h1 {
+  alignment: center;
 }
